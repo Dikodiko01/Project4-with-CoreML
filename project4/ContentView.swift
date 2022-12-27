@@ -64,6 +64,7 @@ struct ContentView: View {
             
         }
     }
+    // так я хочу изменить структуру 
     func calculateBedTime() {
         do {
             let config = MLModelConfiguration()
